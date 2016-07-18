@@ -1,0 +1,25 @@
+{
+  "name": "ciklum_test",
+  "version": "1.0.0",
+  "description": "javascript internship",
+  "author": "Andrii Sherstiuk",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chosen-One-ua/CiklumTest"
+  },
+  "dependencies": {
+    "browser-sync": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-rigger": "latest",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "gulp-watch": "latest",
+    "imagemin-pngquant": "latest",
+    "rimraf": "latest"
+  }
+}

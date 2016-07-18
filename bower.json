@@ -1,0 +1,17 @@
+{
+  "name": "ciklum_test",
+  "version": "1.0.0",
+  "description": "javascript internship",
+  "homepage": "https://github.com/Chosen-One-ua/CiklumTest",
+  "authors": [
+    "Andrii Sherstiuk <sherstiuk.andrii@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "normalize.css": "latest",
+    "jquery": "latest"
+  }
+}
